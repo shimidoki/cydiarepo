@@ -1,8 +1,8 @@
-Origin: Shimi Doki's Repo
-Label: Shimi Doki's Repo
+Origin: Shimi Doki's Repo(BETA)
+Label: Shimi Doki's Repo(BETA)
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
-Components: main
+Components: gh-pages
 Description: Пока проводится тест.
