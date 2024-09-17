@@ -14,3 +14,16 @@ Name: Checkmate, Store!
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
 Depiction: https://shimidoki.github.io/cydiarepo/depictions/?p=com.shimidokixd.checkmatestore
 
+Package: com.shimidokixd.veteris
+Version: 2.0
+Section: Tweaks
+Maintainer: Shimi Doki <uriyraevsky85@gmail.com>
+Depends: firmware (>2.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.shimidokixd.veteris_v2.0.0.deb
+Size: 2078256
+MD5sum: b0cc5b1fa8b389cb51c3b8670f0d6d76
+Description: Veteris - это альтернативный магазин приложений в котором можно выбрать версию скачиваемого .ipa файла.
+Name: Veteris
+Author: Electimon <electimon@gmail.com>
+Depiction: https://shimidoki.github.io/cydiarepo/depictions/?p=com.shimidokixd.checkmatestore

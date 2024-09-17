@@ -1,0 +1,23 @@
+<package>
+	<id>com.shimidokixd.veteris</id>
+	<name>Veteris</name>
+	<version>2.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Veteris - это альтернативный магазин приложений в котором можно выбрать версию скачиваемого .ipa файла.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Релиз в репозитории</change>
+	</changelog>
+	<links></links>
+</package>
